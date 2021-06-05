@@ -4,7 +4,7 @@ Also, I have 5+ years' experience in the IT industry, having worked at several m
 - Or my linkedin: https://www.linkedin.com/in/alexis-zecharies/
 
 - 👀 I’m interested in machine learning, trading, politics and cryptos
-- 🌱 I’m currently learning MITx - 6.431x on Statistics and Data Science MITx MicroMasters Program with edX
+- 🌱 I’m currently learning MITx - 6.431x on Statistics and Data Science for the MITx Machine Learning MicroMasters Program with edX  
 - 💞️ I’m looking to collaborate on machine learing projects
 - 📫 How to reach me alexiszecharies1994@gmail.com
 
