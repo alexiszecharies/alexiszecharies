@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @alexiszecharies, a data scientist at ConsumerAffairs, with 2+ years of hands-on experience on leveraging machine learning models to transform simple data into actionable information as well as providing new business insights while generating impactful and accurate predictions.
-Also, I have 5+ years' experience in the IT industry, having worked at several multinational corporations helping them grow with state-of-the-art technology to solve challenging business problems and collaborating to adapt their projects approach towards to the SCRUM framework. 
-- You can find more information about me on my CV: https://drive.google.com/drive/folders/1bHhX1hDnOMayYMvC7j5Za38bMcd21n2W?usp=sharing
-- Or my linkedin: https://www.linkedin.com/in/alexis-zecharies/
+- 👋 Hi, I’m @alexiszecharies, data scientist at ConsumerAffairs, with 3+ years of hands-on experience in leveraging machine learning models to transform simple data into actionable information and provide new business insights and generate impactful and accurate predictions.
+
+5+ years experience in the IT industry, having worked at several multinational corporations helping them grow with state-of-the-art technology to solve challenging business problems and sometime collaborating to adapt their project approach towards the SCRUM framework. 
 
 - 👀 I’m interested in machine learning, trading, politics and cryptos
 - 🌱 I’m currently learning MITx - 6.431x on Statistics and Data Science for the MITx Machine Learning MicroMasters Program with edX  
