@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @alexiszecharies, data scientist at ConsumerAffairs, with 3+ years of hands-on experience in leveraging machine learning models to transform simple data into actionable information and provide new business insights and generate impactful and accurate predictions.
+- 👋 Hi, I’m @alexiszecharies, data scientist at Revance, with 3+ years of hands-on experience in leveraging machine learning models to transform simple data into actionable information and provide new business insights and generate impactful and accurate predictions.
 
 5+ years experience in the IT industry, having worked at several multinational corporations helping them grow with state-of-the-art technology to solve challenging business problems and sometime collaborating to adapt their project approach towards the SCRUM framework. 
 
