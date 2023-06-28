@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @alexiszecharies, data scientist at Revance, with 3+ years of hands-on experience in leveraging machine learning models to transform simple data into actionable information and provide new business insights and generate impactful and accurate predictions.
+- 👋 Hi, I am a data scientist at Revance with 4+ years of hands-on experience in machine learning. 
 
-5+ years experience in the IT industry, having worked at several multinational corporations helping them grow with state-of-the-art technology to solve challenging business problems and sometime collaborating to adapt their project approach towards the SCRUM framework. 
+- I have a strong background in using state-of-the-art technology to solve challenging business problems and drive revenue growth. With over 6 years of experience in the IT industry at multinational corporations, I have a track record of helping companies better understand their clients, generating leads, creating models and impacting their revenue.
 
-- 👀 I’m interested in machine learning, trading, politics and cryptos
+- 👀 I’m interested in machine learning, quant finance, cryptos
 - 🌱 I’m currently learning MITx - 6.431x on Statistics and Data Science for the MITx Machine Learning MicroMasters Program with edX  
-- 💞️ I’m looking to collaborate on machine learing projects
+- 💞️ I’m looking to collaborate on machine learning projects
 - 📫 How to reach me alexiszecharies1994@gmail.com
 
 <!---
